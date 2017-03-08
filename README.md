@@ -7,3 +7,6 @@
 1. zurück zu einer vorigen Version
 
 ## Nächster Kurs HTML
+
+![Webcam vom Hochkönig](Hochkönig.jpg)
+Quelle: [Bild von Webcam Hochkönig](http://www.foto-webcam.eu/webcam/herzogstand/)
