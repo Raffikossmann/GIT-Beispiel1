@@ -8,5 +8,5 @@
 
 ## Nächster Kurs HTML
 
-![Webcam vom Hochkönig](Hochkönig.jpg)
+![Webcam vom Hochkönig](https://github.com/Raffikossmann/GIT-Beispiel1/raw/master/Hochk%C3%B6nig.jpg)
 Quelle: [Bild von Webcam Hochkönig](http://www.foto-webcam.eu/webcam/herzogstand/)
